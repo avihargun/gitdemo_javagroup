@@ -1,10 +1,10 @@
-#include<iostream>
-using namespace std;
+#include<studio.h>
+
 
 int main()
 {
 
-	cout<<"Hello this is 1st dummy file";
+	printf("Hello this is 1st dummy file ");
 
 
 
