@@ -11,3 +11,9 @@ int main()
 
 
 }
+int fun2()
+{
+
+  
+}
+
