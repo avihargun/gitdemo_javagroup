@@ -9,10 +9,16 @@ int main()
 	
 
 
+}
+
+int fun1()
+{
 
 }
-int fun1()
+int fun2()
+
 {
 
   
 }
+
