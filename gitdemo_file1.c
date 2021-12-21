@@ -1,4 +1,4 @@
-#include<studio.h>1
+#include<studio.h>2
 
 
 int main()
